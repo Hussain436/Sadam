@@ -1,2 +1,0 @@
-# Sadam
-Youtube data harvesting
